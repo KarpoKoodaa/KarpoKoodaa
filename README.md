@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KarpoKoodaa
 - 👀 I’m interested in embedded systems
-- 🌱 I’m currently learning embedded systems and 5G URLLC (Ultra Reliable Low Latency Communication)
+- 🌱 I’m currently learning ESP-32
 - 💞️ I’m looking to collaborate on IoT related projects
 - 📫 How to reach me .. I will let you know
 
